@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
            double pound= 2.205 * kg;
            Result.setText("The pound value is "+ pound);
 
-
+// hie
 
             }
 
